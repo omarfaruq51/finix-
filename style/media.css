@@ -1,0 +1,404 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .p_100 {
+        padding: 60px 0;
+    }
+    .navbar-brand img {
+        width: 100px;
+    }
+    .navbar-nav li {
+        padding: 10px;
+    }
+    .navbar-right {
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+
+    .banner-content {
+        padding: 60px 0px;
+    }
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .banner-social-buttons ul li a i {
+        margin-left: 0px;
+    }
+    .banner-social-buttons ul li span {
+        margin-right: 35px;
+    }
+    .banner-social-buttons ul li span::before {
+        right: -77%;
+        width: 25px;
+    }
+      /* partner start */
+      .partner {
+        padding: 30px 0;
+    }
+    .owl-carousel .owl-item img {
+        width: 200px;
+        margin: 0 auto;
+    }
+    /* about start */
+    .p_100 {
+        padding: 50px 0;
+    }
+    .about-wrap {
+        width: 280px;
+        margin: 0 auto 80px;
+        }
+    .about-circle {
+       width: 180px;
+       height: 190px;
+       right: 0;
+       top: 55%;
+    }
+    .about-circle .text h3 {
+        font-size: 50px;
+    }
+    .about-content h3 {
+        font-size: 25px;
+    }
+    .testimonial-image {
+        text-align: center;
+        padding: 25px 0 48px;
+    }
+    /* business item start */
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .section-title {
+        margin-bottom: 30px;
+    }
+    .deserve-item .deserve-btn {
+        margin-top: 25px;
+        margin-bottom: 30px;
+    }
+    .deserve-item h3 {
+	font-size: 25px;
+    line-height: 35px;
+}
+.deserve-item .deserve-content::before {
+	height: 135%;
+}
+.deserve-item .deserve-content:nth-child(5)::before {
+	height: 0%;
+}
+.business-form {
+	padding: 45px 10px;
+}
+.solution-item .content h3 {
+	font-size: 30px;
+}
+.solution-item .content {
+	text-align: center;
+}
+.solution-item .solution-info i {
+    left: 0px;
+	top: 0px;
+    position: relative;
+}
+.solution-item .solution-info i {
+	height: 45px;
+	width: 45px;
+	line-height: 45px;
+	font-size: 20px;
+    left: 0px;
+	top: 0px;
+    position: relative;
+}
+.solution-item .solution-info {
+	padding-left: 0px;
+}
+.solution-item .solution-info h3 {
+	font-size: 20px;
+	margin-top: 18px;
+}
+.solution-item .solution-info {
+	text-align: center;
+}
+.clients-slider .clients-item .clients-info-text {
+    text-align: center;
+    max-width: 100%;
+}
+.clients-slider .clients-item .clients-image img {
+    margin: auto;
+}
+.clients-slider.owl-theme .owl-dots {
+    top: 65%;
+}
+.clients-slider .clients-item .clients-info-text p {
+    font-size: 18px;
+}
+.clients-slider .clients-item .clients-image .icon-1 {
+    left: 165px;
+}
+.clients-slider.owl-theme .owl-dots {
+	right: 10px;
+	
+}
+.mt_sm {
+    margin-top: 30px;
+}
+.blog-item .image img {
+	width: 100%;
+}
+.clients-slider.owl-theme .owl-dots {
+	margin: 0 !important;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	right: 80px;
+	 display: none;
+}
+.clients-slider .clients-item .clients-image .icon-1 {
+	left: 76px;
+    bottom: 28px;
+}
+.best-services-slider .tabs-item span {
+	font-size: 15px;
+}
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .p_100 {
+        padding: 60px 0;
+    }
+    .navbar-brand img {
+        width: 110px;
+    }
+    .navbar-nav li {
+        padding: 10px;
+    }
+    .navbar-right {
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+  /* banner start */
+    .banner-content h1 {
+        font-size: 32px;
+
+    }
+    .banner-content {
+        padding: 80px 0px;
+    }
+   /* partner start */
+    .partner {
+        padding: 40px 0;
+    }
+/* about start */
+    .about-wrap {
+        width: 388px;
+        margin: 0 auto 40px;
+        }
+    .p_100 {
+        padding: 60px 0;
+    }
+    /* testimonial start */
+    .testimonial-imag{
+        text-align: center;
+    }
+    /* business item start */
+    .deserve-item .deserve-btn {
+        margin-top: 25px;
+        margin-bottom: 30px;
+    }
+    .deserve-item h3 {
+	font-size: 30px;
+    line-height: 45px;
+
+}
+.company-wrap {
+text-align: center;
+}
+.solution-item .content h3 {
+	font-size: 30px;
+}
+.solution-item .content {
+	text-align: center;
+}
+.solution-item .solution-info i {
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+    left: 70px;
+	top: 0px;
+}
+.solution-item .solution-info h3 {
+	font-size: 30px;
+}
+.solution-item .solution-info {
+	text-align: center;
+}
+.clients-slider .clients-item .clients-info-text {
+    text-align: center;
+    max-width: 100%;
+}
+.clients-slider .clients-item .clients-image img {
+    margin: auto;
+}
+.clients-slider.owl-theme .owl-dots {
+    top: 65%;
+}
+.clients-slider .clients-item .clients-info-text p {
+    font-size: 18px;
+}
+.clients-slider .clients-item .clients-image .icon-1 {
+    left: 165px;
+}
+.clients-slider.owl-theme .owl-dots {
+	right: 10px;
+	
+}
+.mt_sm {
+    margin-top: 30px;
+}
+.blog-item .image img {
+	width: 100%;
+}
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .p_100 {
+        padding: 80px 0;
+    }
+    .navbar-nav li {
+        padding: 10px;
+    }
+    .navbar-right {
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+    /* banner start */
+    .banner-content h1 {
+        font-family: 'Rubik', sans-serif;
+        font-size: 50px;
+        color: #ffffff;
+        margin-top: 10px;
+        margin-bottom: 16px;
+        color: #111;
+        font-weight: 500;
+    }
+     /* partner start */
+     .partner {
+        padding: 45px 0;
+    }
+       /* about start */
+    .p_100 {
+    padding: 80px 0;
+    }
+    .about-wrap {
+        width: 388px;
+        margin: 0 auto 40px;
+    }
+      /* testimonial start */
+      .testimonial-image {
+        text-align: center;
+    }
+    .testimonial-image a i {
+        left: 43%;
+    }
+    .solution-item {
+        text-align: center;
+    }
+    .solution-item .solution-info {
+        padding-left: 75px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    /* business item start */
+    .deserve-item .deserve-btn {
+        margin-top: 25px;
+        margin-bottom: 30px;
+    }
+    .clients-slider .clients-item .clients-info-text {
+        text-align: center;
+        max-width: 100%;
+    }
+    .clients-slider .clients-item .clients-image img {
+        margin: auto;
+    }
+    .clients-slider.owl-theme .owl-dots {
+        top: 65%;
+    }
+    .clients-slider .clients-item .clients-info-text p {
+        font-size: 18px;
+    }
+    .clients-slider .clients-item .clients-image .icon-1 {
+        left: 280px;
+    }
+    .mt_sm {
+        margin-top: 30px;
+    }
+  .deserve-item h3 {
+	font-size: 30px;
+    line-height: 45px;
+
+}
+.company-wrap {
+	text-align: center;
+}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* navbar css :start */
+.p_100 {
+	padding: 100px 0;
+}
+.navbar-brand img {
+	width: 110px;
+}
+.navbar-nav li {
+	margin-right: 15px;
+}
+.navbar-right div {
+	margin-right: 0px;
+	padding: 0 5px;
+}
+  .fa-magnifying-glass::before, .fa-search::before {
+	padding-right: 10px;
+}
+.right-icon i {
+	margin-right: 8px;
+}
+/* business item start */
+.deserve-item h3 {
+	font-size: 30px;
+    line-height: 45px;
+
+}
+.solution-item .content h3 {
+	font-size: 30px;
+}
+.solution-item .solution-info i {
+	height: 60px;
+	width: 60px;
+	line-height: 60px;
+	margin-left: -30px;
+}
+.solution-item .solution-info h3 {
+	font-size: 24px;
+}
+.clients-slider.owl-theme .owl-dots {
+	margin: 0 !important;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	right: 10px;
+	display: -ms-grid;
+	display: grid;
+}
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  
+}
+
+/* Extra extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+
+}
